@@ -1,5 +1,7 @@
-# Hello-World
-Testing purpose
+# Vijay's Page
+Just a page about myself
 
 
-This is a GitHub page created only for educational purpose
+Article not yet created. 
+
+Page will be coming soon....
